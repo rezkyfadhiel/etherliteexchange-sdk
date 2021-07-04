@@ -1,5 +1,5 @@
 {
-  "name": "@etherliteexchange/sdk",
+  "name": "@etherlite-exchange/sdk",
   "license": "MIT",
   "version": "3.0.13",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
