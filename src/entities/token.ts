@@ -57,5 +57,5 @@ export function currencyEquals(currencyA: Currency, currencyB: Currency): boolea
 }
 
 export const WETH = {
-  [ChainId.CRONOSTEST]: new Token(ChainId.CRONOSTEST, '0x0dA18267b1Aef80B850458222E2B823AfEbe2340', 18, 'wtCRO', 'Wrapped Test CRO'),
+  [ChainId.CRONOSTEST]: new Token(ChainId.CRONOSTEST, '0x7438ccF10cf40D6346A4B1f1d81987AE128556D6', 18, 'wtCRO', 'Wrapped Test CRO'),
 }
